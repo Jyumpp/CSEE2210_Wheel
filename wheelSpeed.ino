@@ -1,7 +1,7 @@
-#define READ_PIN 12
-#define OUT_ONE 1
-#define OUT_TWO 2
-#define OUT_THR 3
+#define READ_PIN 13
+#define OUT_ONE 2
+#define OUT_TWO 3
+#define OUT_THR 4
 
 unsigned long oldTime = 0;
 bool oldLightState = false;
